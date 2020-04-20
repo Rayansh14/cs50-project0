@@ -15,7 +15,7 @@ table {
 
 th, td {
   border: 1px solid black;
-  padding: 20px;
+  padding: 25px;
   padding-top: 12px;
   padding-bottom: 12px;
 }
@@ -46,4 +46,8 @@ h1 {
   padding: 50px;
   font-size: 20px;
   height: 200px
+}
+
+body {
+  background-color: #fed8b1;
 }
