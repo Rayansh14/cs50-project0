@@ -62,6 +62,14 @@ body {
   text-align: center;
 }
 
-.home_button:hover {
-  color: green;
+a:hover {
+  color:green;
+  font-weight: bold;
+  font-size:16px;
+}
+
+@media (min-width:700px) {
+  #cr::after {
+    content: " on 20th April, 2020";
+  }
 }
