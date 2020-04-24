@@ -59,7 +59,7 @@ h1 {
 }
 
 @media (min-width:700px) {
-  #cr::after {
+  #cr::after, .designed_by::after {
     content: " on 20th April, 2020";
   }
 }

@@ -14,4 +14,19 @@ a:hover {
   .list ol {
     font-size: 20px; }
 
+#cr, .designed_by {
+  text-align: center;
+  padding: 50px;
+  font-size: 20px;
+  height: 175px;
+  font-size: 25px; }
+
+#cr {
+  background-color: lightblue;
+  color: darkblue; }
+
+.designed_by {
+  background-color: lightgreen;
+  color: darkgreen; }
+
 /*# sourceMappingURL=styles1.css.map */
