@@ -45,11 +45,7 @@ h1 {
   color:darkblue;
   padding: 50px;
   font-size: 20px;
-  height: 200px
-}
-
-body {
-  background-color: #fed8b1;
+  height: 175px
 }
 
 @media print{
@@ -60,12 +56,6 @@ body {
 
 .home_button {
   text-align: center;
-}
-
-a:hover {
-  color:green;
-  font-weight: bold;
-  font-size:16px;
 }
 
 @media (min-width:700px) {
